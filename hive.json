@@ -1,0 +1,18 @@
+{
+  "actual": "sota.ac",
+  "relays": [
+    "https://sota.ac/api/v1/public/actual"
+    "https://",
+    "https://storage.yandexcloud.net/fallback/hive.json",
+    "https://fallback.hb.ru-msk.vkcloud-storage.ru/hive.json"
+  ],
+  "windows": {
+    "min_version": "1.4.4",
+    "last_version": "1.4.4",
+    "last_sum": {
+      "algorithm": "SHA1",
+      "value": "ebaeb2b440fa62ce8c26edd51a0023d4961944e1"
+    },
+    "update_url": "https://github.com/sotavpn/sotavpn-app/releases/download/v0.6.1/sota.update"
+  }
+}
